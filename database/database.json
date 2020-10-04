@@ -1,0 +1,48 @@
+[{
+    "id": 1,
+    "productName": "Калифорния темпура",
+    "imgSrc": "./img/roll/california-tempura.jpg",
+    "weight": 205,
+    "price": 250,
+    "count": 6
+}, 
+{
+    "id": 2,
+    "productName": "Филадельфия хит ролл",
+    "imgSrc": "./img/roll/philadelphia.jpg",
+    "weight": 180,
+    "price": 300,
+    "count": 6
+},
+{
+    "id": 3,
+    "productName": "Запеченый ролл «Калифорния»",
+    "imgSrc": "./img/roll/zapech-california.jpg",
+    "weight": 182,
+    "price": 230,
+    "count": 6
+},
+{
+    "id": 4,
+    "productName": "Калифорния каппа маки с икрой",
+    "imgSrc": "./img/roll/calofornia-cappa.jpg",
+    "weight": 190,
+    "price": 150,
+    "count": 6
+},
+{
+    "id": 5,
+    "productName": "Филадельфия в кунжуте",
+    "imgSrc": "./img/roll/filadelfiya-v-kunzhute.jpg",
+    "weight": 220,
+    "price": 220,
+    "count": 6
+},
+{
+    "id": 6,
+    "productName": "Калифорния шудо в кунжуте",
+    "imgSrc": "./img/roll/california-shudo.jpg",
+    "weight": 220,
+    "price": 220,
+    "count": 6
+}]
